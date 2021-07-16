@@ -9,7 +9,7 @@ package helpers;
  *
  * @author (juan cruz)
  */
-    public abstract class Persona {
+     public abstract class Persona {
     //metodos abstractos a heredar
   public abstract String getnombre();
     public abstract int getedad();
